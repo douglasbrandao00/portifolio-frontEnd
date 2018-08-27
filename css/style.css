@@ -1,0 +1,57 @@
+*{
+  /* border: 2px solid red; */
+  color: #2d3c49;
+  font-family: 'Lato', sans-serif;
+}
+
+h2 {
+  color: #7d97ad;
+}
+
+hr {
+  border-color: #7d97ad;
+}
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+}
+
+.cabecalho{
+  padding: 10px 0 0 0 ;
+}
+
+.banner {
+  padding: 0;
+  margin-bottom: 20px;
+  overflow: hidden;
+  background-image: url("http://placekitten.com/1200/300");
+}
+
+.card {
+  overflow: hidden;
+  padding: 0;
+  border-style: none;
+  border-radius: 0;
+}
+
+.link {
+  text-decoration: none;
+  color: #2d3c49;
+}
+
+.link:hover {
+  text-decoration: none;
+  color: #02b3e4;
+}
+
+.link:visited {
+  text-decoration: none;
+  color: #7d97ad;
+}
+
+.link:active {
+  text-decoration: none;
+  color: #2d3c49;
+}
